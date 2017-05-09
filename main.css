@@ -1,0 +1,18 @@
+
+/*color, background-color, font-size, text-decoration, height, width
+*/
+
+
+.main-title {
+  color: red;
+  font-size: 100px;
+  text-decoration: underline;
+  height: 200px;
+
+
+
+
+.second-title {
+  color: blue;
+  text-decoration: overline;
+}
