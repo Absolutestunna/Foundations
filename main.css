@@ -1,18 +1,25 @@
+body {
+  color: #28261c;
+  padding: 0 400px;
+}
 
-/*color, background-color, font-size, text-decoration, height, width
-*/
+section {
+  font-size: 20px;
+}
 
-
-.main-title {
-  color: red;
-  font-size: 100px;
+.header-title {
+  font-size: 30px;
   text-decoration: underline;
-  height: 200px;
+}
 
+.placeholder-article {
+  padding: 0 25px;
+}
 
+.third-paragraph {
+  margin-bottom: 30px;
+}
 
-
-.second-title {
-  color: blue;
-  text-decoration: overline;
+.first-paragraph {
+  margin-bottom: 30px;
 }
